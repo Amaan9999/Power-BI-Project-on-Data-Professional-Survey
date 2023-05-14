@@ -1,1 +1,2 @@
 # Power-BI-Project-on-Data-Professionals-Survey
+A dataset collected from a survey of various data professionals was used to create a project. The data was first transformed using Power Query Editor, and then a dashboard was created to present interesting facts and findings from the dataset. The dashboard includes various visualizations such as treemaps, gauges, stack column charts, cards, donut charts, and more. The purpose of the dashboard is to present a breakdown of the Data Professionals Survey.
